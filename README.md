@@ -1,6 +1,6 @@
 # Víctor Caquilpan
 
-<img src="https://miro.medium.com/max/1200/1*008eIu9lG7QVmhGNNy9RpA.jpeg" width="600px">
+<img src="https://miro.medium.com/max/1200/1*008eIu9lG7QVmhGNNy9RpA.jpeg" width="700px">
 
 Hola, 
 
