@@ -10,8 +10,3 @@
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=#FCC624&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=appveyor:image/svg%2bxml;base64,<BASE64_DATA>)
-
-
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
