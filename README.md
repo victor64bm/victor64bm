@@ -4,7 +4,7 @@
 
 Hola, 
 
-Soy Ingeniero en Recursos Naturales (U.Chile) y un entusiasta en temáticas de ciencia de datos. 🌱
+Soy Ingeniero en Recursos Naturales (U.Chile) y un entusiasta en temáticas de ciencia de datos. Si quieres contactarme, puedes hacerlo a mi correo personal victor.caquilpan@gmail.com.🌱
 
 # Herramientas
 
