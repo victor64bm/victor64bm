@@ -4,7 +4,7 @@
 
 Hola, 
 
-soy Ingeniero en Recursos Naturales (U.Chile) y un entusiasta en temáticas de ciencia de datos. 🌱
+Soy Ingeniero en Recursos Naturales (U.Chile) y un entusiasta en temáticas de ciencia de datos. 🌱
 
 # Herramientas
 
