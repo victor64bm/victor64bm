@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Montañas](https://miro.medium.com/max/1200/1*008eIu9lG7QVmhGNNy9RpA.jpeg)
 
 ### Hi there 👋
 
