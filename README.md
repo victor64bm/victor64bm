@@ -1,4 +1,4 @@
-[![Montañas](https://miro.medium.com/max/1200/1*008eIu9lG7QVmhGNNy9RpA.jpeg)
+[Montañas](https://miro.medium.com/max/1200/1*008eIu9lG7QVmhGNNy9RpA.jpeg)
 
 ### Hi there 👋
 
