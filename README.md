@@ -20,7 +20,7 @@ Dejo algunos enlaces que pueden ser de interés para varias personas. En el últ
 
 ## Python
 
-* [Censio - Canal de Python y IA](https://www.youtube.com/c/sensio-ia). Canal de youtube muy bueno en donde se exmplican diferentes temás ligados a ciencia de datos, uso de python, Git, inteligencia artificial, entre otros. Muy recomendable, además está en español.
+* [Sensio - Canal de Python y IA](https://www.youtube.com/c/sensio-ia). Canal de youtube muy bueno en donde se exmplican diferentes temás ligados a ciencia de datos, uso de python, Git, inteligencia artificial, entre otros. Muy recomendable, además está en español.
 
 ## R
 
