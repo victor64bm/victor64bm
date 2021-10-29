@@ -27,6 +27,7 @@ Dejo algunos enlaces que pueden ser de interés para varias personas. En el últ
 * [Estadística Inferencial en Ciencia de Datos](https://moderndive.com/). Ebook muy bueno sobre estadística inferencial con varios casos aplicados y ejemplos fáciles de entender. Recomendadisimo.
 * [Advanced R](https://adv-r.hadley.nz/). Ebook acerca del uso de R a nivel un poco más avanzado. muy útil para poder obtener un mayor provecho.
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/). Ebook muy bueno para aprender sobre estadística bayesiana con ejemplos en R.
+* [Efficient R programming](https://csgillespie.github.io/efficientR/). Ebook relativo a varias formas en cómo aumentar el rendimiento de scripts, uso de memoria y otros temas similares en R.
 * [A Data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/). Traducción de funciones del mundo dplyr (tidyverse) a data.table. Data.table es un tipo de variable similar a data.frame, pero optimizado para trabajar con grandes cantidades de datos. Cuando debemos trabajar con grandes cantidades de datos, dplyr nos puede quedar corto, por lo que data.table puede ser una muy buena opción.
 * [dtplyr/translation](https://dtplyr.tidyverse.org/articles/translation.html) Si se desea convertir código que contiene funciones de dplyr y se requiere transformar rapidamente todo a data.table, es posible utilizar la librería dtplyr para realizar la conversión de una manera rápida y sencilla.
 
