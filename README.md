@@ -24,7 +24,7 @@ I leave some links that may be of interest to several people. Recently, he tried
 
 ## R
 
-* [Estadística Inferencial en Ciencia de Datos](https://moderndive.com/). Very good ebook on inferential statistics with several applied cases and easy to understand examples. Highly recommended.
+* [Inferential Statistic en Ciencia de Datos](https://moderndive.com/). Very good ebook on inferential statistics with several applied cases and easy to understand examples. Highly recommended.
 * [Advanced R](https://adv-r.hadley.nz/). Ebook about the use of R at a slightly more advanced level. very useful to get more out of it.
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/). Very good ebook to learn about Bayesian statistics with examples in R.
 * [Efficient R programming](https://csgillespie.github.io/efficientR/). Ebook dealing with various ways on how to increase script performance, memory usage and other similar topics in R.
