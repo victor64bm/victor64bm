@@ -4,17 +4,17 @@
 <img src="https://miro.medium.com/max/1200/1*008eIu9lG7QVmhGNNy9RpA.jpeg" width="700px">
 </p>
 
-Hola, 
+HI there, 
 
-Soy Ingeniero en Recursos Naturales (U.Chile) y un entusiasta en temáticas de ciencia de datos. Si quieres contactarme, puedes hacerlo a mi correo personal victor.caquilpan@gmail.com.🌱
+I am Natural Resources Engineer from University of Chile (Chile), student of Master Degree of Artificial Intelligence in The University of Adelaide (Australia) and a data science enthusiast. If you want to contact me, you can do it to my personal email victor.caquilpan@gmail.com🌱.
 
-# Herramientas
+# Tools
 
-Principales herramientas y aplicaciones
+Main tools and applications
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green) ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 
-# Recursos de interés
+# Interesting Resources
 
 Dejo algunos enlaces que pueden ser de interés para varias personas. En el último tiempo he intentado ser más metódico y aprovechar de leer varios ebooks para aprender diferentes tópicos.
 
@@ -31,7 +31,7 @@ Dejo algunos enlaces que pueden ser de interés para varias personas. En el últ
 * [A Data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/). Traducción de funciones del mundo dplyr (tidyverse) a data.table. Data.table es un tipo de variable similar a data.frame, pero optimizado para trabajar con grandes cantidades de datos. Cuando debemos trabajar con grandes cantidades de datos, dplyr nos puede quedar corto, por lo que data.table puede ser una muy buena opción.
 * [dtplyr/translation](https://dtplyr.tidyverse.org/articles/translation.html) Si se desea convertir código que contiene funciones de dplyr y se requiere transformar rapidamente todo a data.table, es posible utilizar la librería dtplyr para realizar la conversión de una manera rápida y sencilla.
 
-## Varios
+## Miscellaneous
 
 * [Curso de Docker en español](https://www.youtube.com/watch?v=UZpyvK6UGFo&list=PLqRCtm0kbeHAep1hc7yW-EZQoAJqSTgD-). Canal de youtube en donde se explican temáticas básicas acerca del uso de Docker y su configuración para múltiples fines.
 * [Making Slides with R Markdown](https://arm.rbind.io/slides/xaringan.html#5). Documentación para aprender a utilizar Sharíngan, librería útil para crear geniales presentación en R a través de RMarkdown.
