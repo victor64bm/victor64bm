@@ -6,7 +6,7 @@
 
 HI there, 
 
-I am Natural Resources Engineer from University of Chile (Chile), student of Master Degree of Artificial Intelligence in The University of Adelaide (Australia) and a data science enthusiast. If you want to contact me, you can do it to my personal email victor.caquilpan@gmail.com🌱.
+I am a Natural Resources Engineer from The University of Chile (Chile), student of Master Degree of Artificial Intelligence in The University of Adelaide (Australia) and a data science enthusiast. If you want to contact me, you can do it to my personal email victor.caquilpan@gmail.com🌱.
 
 # Tools
 
