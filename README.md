@@ -16,26 +16,22 @@ Main tools and applications
 
 # Interesting Resources
 
-Dejo algunos enlaces que pueden ser de interés para varias personas. En el último tiempo he intentado ser más metódico y aprovechar de leer varios ebooks para aprender diferentes tópicos.
+I leave some links that may be of interest to several people. Recently, he tried to be more methodical and take advantage of reading several electronic books to learn different topics.
 
 ## Python
 
-* [Sensio - Canal de Python y IA](https://www.youtube.com/c/sensio-ia). Canal de youtube muy bueno en donde se exmplican diferentes temás ligados a ciencia de datos, uso de python, Git, inteligencia artificial, entre otros. Muy recomendable, además está en español.
+* [Sensio - Canal de Python y IA](https://www.youtube.com/c/sensio-ia). Very good YouTube channel where different topics related to data science, use of python, Git, artificial intelligence, among others, are explained. Highly recommended, it is in Spanish language.
 
 ## R
 
-* [Estadística Inferencial en Ciencia de Datos](https://moderndive.com/). Ebook muy bueno sobre estadística inferencial con varios casos aplicados y ejemplos fáciles de entender. Recomendadisimo.
-* [Advanced R](https://adv-r.hadley.nz/). Ebook acerca del uso de R a nivel un poco más avanzado. muy útil para poder obtener un mayor provecho.
-* [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/). Ebook muy bueno para aprender sobre estadística bayesiana con ejemplos en R.
-* [Efficient R programming](https://csgillespie.github.io/efficientR/). Ebook relativo a varias formas en cómo aumentar el rendimiento de scripts, uso de memoria y otros temas similares en R.
-* [A Data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/). Traducción de funciones del mundo dplyr (tidyverse) a data.table. Data.table es un tipo de variable similar a data.frame, pero optimizado para trabajar con grandes cantidades de datos. Cuando debemos trabajar con grandes cantidades de datos, dplyr nos puede quedar corto, por lo que data.table puede ser una muy buena opción.
-* [dtplyr/translation](https://dtplyr.tidyverse.org/articles/translation.html) Si se desea convertir código que contiene funciones de dplyr y se requiere transformar rapidamente todo a data.table, es posible utilizar la librería dtplyr para realizar la conversión de una manera rápida y sencilla.
+* [Estadística Inferencial en Ciencia de Datos](https://moderndive.com/). Very good ebook on inferential statistics with several applied cases and easy to understand examples. Highly recommended.
+* [Advanced R](https://adv-r.hadley.nz/). Ebook about the use of R at a slightly more advanced level. very useful to get more out of it.
+* [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/). Very good ebook to learn about Bayesian statistics with examples in R.
+* [Efficient R programming](https://csgillespie.github.io/efficientR/). Ebook dealing with various ways on how to increase script performance, memory usage and other similar topics in R.
+* [A Data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/). Translation of functions from the dplyr world (tidyverse) to data.table. Data.table is a variable type similar to data.frame, but optimized for working with large amounts of data. When we must work with large amounts of data, dplyr can fall short, so data.table can be a very good option.
+* [dtplyr/translation](https://dtplyr.tidyverse.org/articles/translation.html) If you want to convert code that contains dplyr functions and you need to quickly convert everything to data.table, you can use the dtplyr library to do the conversion quickly and easily.
 
 ## Miscellaneous
 
-* [Curso de Docker en español](https://www.youtube.com/watch?v=UZpyvK6UGFo&list=PLqRCtm0kbeHAep1hc7yW-EZQoAJqSTgD-). Canal de youtube en donde se explican temáticas básicas acerca del uso de Docker y su configuración para múltiples fines.
-* [Making Slides with R Markdown](https://arm.rbind.io/slides/xaringan.html#5). Documentación para aprender a utilizar Sharíngan, librería útil para crear geniales presentación en R a través de RMarkdown.
-
-
-
-
+* [Curso de Docker en español](https://www.youtube.com/watch?v=UZpyvK6UGFo&list=PLqRCtm0kbeHAep1hc7yW-EZQoAJqSTgD-). YouTube channel where basic topics about the use of Docker and its configuration for multiple purposes are explained (it is in Spanish).
+* [Making Slides with R Markdown](https://arm.rbind.io/slides/xaringan.html#5). Documentation to learn how to use Sharingan, a useful library to create great presentations in R through RMarkdown.
