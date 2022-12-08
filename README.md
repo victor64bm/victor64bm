@@ -4,9 +4,9 @@
 <img src="https://miro.medium.com/max/1200/1*008eIu9lG7QVmhGNNy9RpA.jpeg" width="700px">
 </p>
 
-HI there, 
+Hi there, 
 
-I am a Natural Resources Engineer from The University of Chile (Chile), student of Master Degree of Artificial Intelligence in The University of Adelaide (Australia) and a data science enthusiast. If you want to contact me, you can do it to my personal email victor.caquilpan@gmail.com🌱.
+My name is Victor and I am an enthusiastic data scientist focused on solving environmental problems. I am a Natural Resources Engineer from The University of Chile (Chile), and a student of Master Degree of Artificial Intelligence in The University of Adelaide (Australia). If you want to contact me, you can do it to my personal email victor.caquilpan@gmail.com🌱.
 
 # Tools
 
