@@ -6,7 +6,7 @@
 
 Hi there, 
 
-My name is Victor and I am an enthusiastic data scientist focused on solving environmental problems. I am a Natural Resources Engineer from The University of Chile (Chile), and a student of Master Degree of Artificial Intelligence in The University of Adelaide (Australia). If you want to contact me, you can do it to my personal email victor.caquilpan@gmail.com🌱.
+My name is Victor and I am an enthusiastic ML engineer and data scientist focused on solving environmental problems. I am a Natural Resources Engineer from The University of Chile (Chile), and a student of Master Degree of Artificial Intelligence in The University of Adelaide (Australia). If you want to contact me, you can do it to my personal email victor.caquilpan@gmail.com🌱.
 
 # Tools
 
@@ -16,10 +16,11 @@ Main tools and applications
 
 # Interesting Resources
 
-I leave some links that may be of interest to several people. Recently, he tried to be more methodical and take advantage of reading several electronic books to learn different topics.
+I leave some links that may be of interest to several people. 
 
 ## Python
 
+* [Pytorch Lightning](https://lightning.ai/). Main page of this wrapper of Pytorch, very useful to leverage the multiple capabilities of this Deep Learning framework.
 * [Sensio - Canal de Python y IA](https://www.youtube.com/c/sensio-ia). Very good YouTube channel where different topics related to data science, use of python, Git, artificial intelligence, among others, are explained. Highly recommended, it is in Spanish language.
 
 ## R
