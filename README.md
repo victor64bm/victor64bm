@@ -14,6 +14,8 @@ Main tools and applications
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green) ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green) ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 
+![](https://img.shields.io/badge/Pytorch%20Lightning%20-%20https%3A%2F%2Flightning.ai%2F)
+
 # Interesting Resources
 
 I leave some links that may be of interest to several people. 
