@@ -6,7 +6,7 @@
 
 Hi there, 
 
-My name is Victor and I am an enthusiastic ML engineer and data scientist focused on solving environmental problems. I am a Natural Resources Engineer from The University of Chile (Chile), and a student of Master Degree of Artificial Intelligence in The University of Adelaide (Australia). If you want to contact me, you can do it to my personal email victor.caquilpan@gmail.com🌱.
+My name is Victor and I am an enthusiastic ML engineer and data scientist focused on solving environmental problems. Now, my main research is in Re-ID of feral cats (a huge problem in all the planet, because these animal hunt multiple native species). I am a Natural Resources Engineer from The University of Chile (Chile), and a student of Master Degree of Artificial Intelligence in The University of Adelaide (Australia). If you want to contact me, you can do it to my personal email victor.caquilpan@gmail.com🌱.
 
 # Tools
 
